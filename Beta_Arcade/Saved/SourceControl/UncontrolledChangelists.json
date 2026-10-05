@@ -1,0 +1,41 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Github_JourneyMan/Beta-Arcade/Beta_Arcade/Content/CharlieC_Levels/Lvl_Hub.umap",
+				"D:/Github_JourneyMan/Beta-Arcade/Beta_Arcade/Content/CharlieC_Levels/BlockOuts_Assets/Half_Wall2M.uasset",
+				"D:/Github_JourneyMan/Beta-Arcade/Beta_Arcade/Content/CharlieC_Levels/BlockOuts_Assets/Half_Wall4M.uasset",
+				"D:/Github_JourneyMan/Beta-Arcade/Beta_Arcade/Content/CharlieC_Levels/BlockOuts_Assets/Pillar.uasset",
+				"D:/Github_JourneyMan/Beta-Arcade/Beta_Arcade/Content/CharlieC_Levels/BlockOuts_Assets/Tower.uasset",
+				"D:/Github_JourneyMan/Beta-Arcade/Beta_Arcade/Content/CharlieC_Levels/BlockOuts_Assets/Wall2M.uasset",
+				"D:/Github_JourneyMan/Beta-Arcade/Beta_Arcade/Content/CharlieC_Levels/BlockOuts_Assets/Wall4M.uasset",
+				"D:/Github_JourneyMan/Beta-Arcade/Beta_Arcade/Content/CharlieC_Levels/BlockOuts_Assets/standardSurface1.uasset",
+				"D:/Github_JourneyMan/Beta-Arcade/Beta_Arcade/Content/CharlieC_Levels/_GENERATED/charl/Box_01C3AEBE.uasset",
+				"D:/Github_JourneyMan/Beta-Arcade/Beta_Arcade/Content/CharlieC_Levels/_GENERATED/charl/Box_0B48BAFC.uasset",
+				"D:/Github_JourneyMan/Beta-Arcade/Beta_Arcade/Content/CharlieC_Levels/_GENERATED/charl/Box_0D4A26F0.uasset",
+				"D:/Github_JourneyMan/Beta-Arcade/Beta_Arcade/Content/CharlieC_Levels/_GENERATED/charl/Box_1C4BF56B.uasset",
+				"D:/Github_JourneyMan/Beta-Arcade/Beta_Arcade/Content/CharlieC_Levels/_GENERATED/charl/Box_1D20273A.uasset",
+				"D:/Github_JourneyMan/Beta-Arcade/Beta_Arcade/Content/CharlieC_Levels/_GENERATED/charl/Box_283904EF.uasset",
+				"D:/Github_JourneyMan/Beta-Arcade/Beta_Arcade/Content/CharlieC_Levels/_GENERATED/charl/Box_46FD01B9.uasset",
+				"D:/Github_JourneyMan/Beta-Arcade/Beta_Arcade/Content/CharlieC_Levels/_GENERATED/charl/Box_8A52E15B.uasset",
+				"D:/Github_JourneyMan/Beta-Arcade/Beta_Arcade/Content/CharlieC_Levels/_GENERATED/charl/Box_9AF02E77.uasset",
+				"D:/Github_JourneyMan/Beta-Arcade/Beta_Arcade/Content/CharlieC_Levels/_GENERATED/charl/Box_B100E7FC.uasset",
+				"D:/Github_JourneyMan/Beta-Arcade/Beta_Arcade/Content/CharlieC_Levels/_GENERATED/charl/Box_B2A71F59.uasset",
+				"D:/Github_JourneyMan/Beta-Arcade/Beta_Arcade/Content/CharlieC_Levels/_GENERATED/charl/Box_BC015A04.uasset",
+				"D:/Github_JourneyMan/Beta-Arcade/Beta_Arcade/Content/CharlieC_Levels/_GENERATED/charl/Box_C22E5E49.uasset",
+				"D:/Github_JourneyMan/Beta-Arcade/Beta_Arcade/Content/CharlieC_Levels/_GENERATED/charl/Box_C7B4D6B3.uasset",
+				"D:/Github_JourneyMan/Beta-Arcade/Beta_Arcade/Content/CharlieC_Levels/_GENERATED/charl/Box_E16C39F0.uasset",
+				"D:/Github_JourneyMan/Beta-Arcade/Beta_Arcade/Content/CharlieC_Levels/_GENERATED/charl/Box_E3226233.uasset",
+				"D:/Github_JourneyMan/Beta-Arcade/Beta_Arcade/Content/CharlieC_Levels/_GENERATED/charl/Box_E833FD36.uasset",
+				"D:/Github_JourneyMan/Beta-Arcade/Beta_Arcade/Content/CharlieC_Levels/_GENERATED/charl/Box_FFDCDFE0.uasset",
+				"D:/Github_JourneyMan/Beta-Arcade/Beta_Arcade/Content/CharlieC_Levels/_GENERATED/charl/Capsule_A00AA8E1.uasset",
+				"D:/Github_JourneyMan/Beta-Arcade/Beta_Arcade/Content/CharlieC_Levels/_GENERATED/charl/Cylinder_4BBCCA57.uasset",
+				"D:/Github_JourneyMan/Beta-Arcade/Beta_Arcade/Content/CharlieC_Levels/_GENERATED/charl/Merge_2229C1AE.uasset",
+				"D:/Github_JourneyMan/Beta-Arcade/Beta_Arcade/Content/CharlieC_Levels/_GENERATED/charl/Merge_41607C13.uasset"
+			]
+		}
+	]
+}
