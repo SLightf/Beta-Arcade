@@ -1,0 +1,17 @@
+[26544:10960:1005/213345.000:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[26544:10960:1005/213345.105:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[26544:42908:1005/213345.240:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[26544:10960:1005/213345.408:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[26544:42908:1005/213352.182:WARNING:leveldb_database.cc(141)] Unable to open E:\Github\Beta-Arcade\Beta_Arcade\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: E:\Github\Beta-Arcade\Beta_Arcade\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[26544:42908:1005/213352.185:WARNING:leveldb_database.cc(141)] Unable to open E:\Github\Beta-Arcade\Beta_Arcade\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: E:\Github\Beta-Arcade\Beta_Arcade\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[26544:42908:1005/213352.186:WARNING:leveldb_database.cc(141)] Unable to open E:\Github\Beta-Arcade\Beta_Arcade\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: E:\Github\Beta-Arcade\Beta_Arcade\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[26544:42908:1005/213352.187:WARNING:leveldb_database.cc(141)] Unable to open E:\Github\Beta-Arcade\Beta_Arcade\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: E:\Github\Beta-Arcade\Beta_Arcade\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[26544:10144:1005/213353.714:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[26544:10144:1005/213353.718:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[26544:10960:1005/213353.796:ERROR:device_event_log_impl.cc(196)] [21:33:53.780] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[45220:45224:1005/213354.080:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-F0FB86BCF968EE0B840CE4385A5876BB will be ignored
+[36764:18516:1005/213356.367:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[36764:18516:1005/213356.382:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[36764:18516:1005/213407.796:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[36764:18516:1005/213420.129:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[26544:10960:1005/231509.537:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
