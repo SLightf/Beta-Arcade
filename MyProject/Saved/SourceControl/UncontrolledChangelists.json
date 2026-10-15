@@ -5,6 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/d3854824/Documents/GitHub/Beta-Arcade/MyProject/Content/Variant_Combat/Lvl_Combat.umap",
+				"C:/Users/d3854824/Documents/GitHub/Beta-Arcade/MyProject/Content/Own_Work/Ewen_J/UI/Images/BorderUI.uasset",
+				"C:/Users/d3854824/Documents/GitHub/Beta-Arcade/MyProject/Content/Own_Work/Ewen_J/UI/Images/DM_Health.uasset",
+				"C:/Users/d3854824/Documents/GitHub/Beta-Arcade/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/d3854824/Documents/GitHub/Beta-Arcade/MyProject/Content/Variant_Combat/Blueprints/AI/StateTreeTasks/StateTreeTask_FaceActor.uasset",
+				"C:/Users/d3854824/Documents/GitHub/Beta-Arcade/MyProject/Content/Own_Work/Ewen_J/UI/Images/UI_Border.uasset",
+				"C:/Users/d3854824/Documents/GitHub/Beta-Arcade/MyProject/Content/Own_Work/Ewen_J/UI/WB_HUD.uasset",
+				"C:/Users/d3854824/Documents/GitHub/Beta-Arcade/MyProject/Content/Own_Work/Ewen_J/UI/Images/blue-water-surface-background-free-photo.uasset",
 				"C:/Users/d3854824/Documents/Unreal Projects/MyProject/Content/Own_Work/Ewen_J/UI/WB_MainMenu.uasset",
 				"C:/Users/d3854824/Documents/Unreal Projects/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/d3854824/Documents/Unreal Projects/MyProject/Content/Variant_Combat/Lvl_Combat.umap"
