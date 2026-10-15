@@ -1,0 +1,15 @@
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+.vs/
+*.VC.db
+*.VC.opendb
+*.suo
+
+*.sln
+*.xcodeproj
+
+.DS_Store
+Thumbs.db
