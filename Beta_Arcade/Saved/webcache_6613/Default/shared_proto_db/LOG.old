@@ -1,2 +1,3 @@
-2026/10/05-17:27:52.480 f3f4 Creating DB C:\Users\Scott\Documents\GitHub\Beta-Arcade\Beta_Arcade\Saved\webcache_6613\Default\shared_proto_db since it was missing.
-2026/10/05-17:27:52.491 f3f4 Reusing MANIFEST C:\Users\Scott\Documents\GitHub\Beta-Arcade\Beta_Arcade\Saved\webcache_6613\Default\shared_proto_db/MANIFEST-000001
+2026/10/05-17:43:47.732 dc58 Reusing MANIFEST C:\Users\Scott\Documents\GitHub\Beta-Arcade\Beta_Arcade\Saved\webcache_6613\Default\shared_proto_db/MANIFEST-000001
+2026/10/05-17:43:47.733 dc58 Recovering log #3
+2026/10/05-17:43:47.733 dc58 Reusing old log C:\Users\Scott\Documents\GitHub\Beta-Arcade\Beta_Arcade\Saved\webcache_6613\Default\shared_proto_db/000003.log 
