@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/e4069454/Documents/GitHub/Beta-Arcade/Beta_Arcade/Content/Evans_Level.umap",
+				"C:/Users/e4069454/Documents/GitHub/Beta-Arcade/Beta_Arcade/Content/Evans_Assets/InsideWallLong.uasset",
+				"C:/Users/e4069454/Documents/GitHub/Beta-Arcade/Beta_Arcade/Content/Evans_Assets/InsideWallMedium.uasset",
+				"C:/Users/e4069454/Documents/GitHub/Beta-Arcade/Beta_Arcade/Content/Evans_Assets/InsideWallShort.uasset",
+				"C:/Users/e4069454/Documents/GitHub/Beta-Arcade/Beta_Arcade/Content/Evans_Assets/standardSurface1.uasset",
 				"E:/Beta-Arcade/Beta_Arcade/Content/Evans_Level.umap",
 				"E:/Beta-Arcade/Beta_Arcade/Content/Evans_Assets/Barrel.uasset",
 				"E:/Beta-Arcade/Beta_Arcade/Content/Evans_Assets/Battlement.uasset",
