@@ -6,12 +6,15 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/Scott/Documents/GitHub/Beta-Arcade/Beta_Arcade/Content/S_Ligh_Dev/Bank_AC_BP.uasset",
-				"C:/Users/Scott/Documents/GitHub/Beta-Arcade/Beta_Arcade/Content/S_Ligh_Dev/Test.uasset",
 				"C:/Users/Scott/Documents/GitHub/Beta-Arcade/Beta_Arcade/Content/S_Ligh_Dev/Test_Enum.uasset",
 				"C:/Users/Scott/Documents/GitHub/Beta-Arcade/Beta_Arcade/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/Scott/Documents/GitHub/Beta-Arcade/Beta_Arcade/Content/S_Ligh_Dev/Coint_Test_BP.uasset",
 				"C:/Users/Scott/Documents/GitHub/Beta-Arcade/Beta_Arcade/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/GM/JLWG18BKNJDGZDVTWR2JKB.uasset",
-				"C:/Users/Scott/Documents/GitHub/Beta-Arcade/Beta_Arcade/Content/S_Ligh_Dev/Test_Interface.uasset"
+				"C:/Users/Scott/Documents/GitHub/Beta-Arcade/Beta_Arcade/Content/S_Ligh_Dev/Test_Interface.uasset",
+				"C:/Users/Scott/Documents/GitHub/Beta-Arcade/Beta_Arcade/Content/S_Ligh_Dev/Shop_Test_BP.uasset",
+				"C:/Users/Scott/Documents/GitHub/Beta-Arcade/Beta_Arcade/Content/S_Ligh_Dev/UI/WB_UpgradeTest.uasset",
+				"C:/Users/Scott/Documents/GitHub/Beta-Arcade/Beta_Arcade/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/CJ/S9F8TH2AQKC0XIEME5V8B2.uasset",
+				"C:/Users/Scott/Documents/GitHub/Beta-Arcade/Beta_Arcade/Content/S_Ligh_Dev/Test.uasset"
 			]
 		}
 	]
