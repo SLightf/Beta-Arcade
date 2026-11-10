@@ -1,5 +1,1 @@
-2026/11/05-05:18:19.242 5b28 Log #3: 3 ops saved to Table #4 OK
-2026/11/05-05:18:19.244 5b28 Archiving C:\Users\Scott\Documents\GitHub\Beta-Arcade\Beta_Arcade\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
-2026/11/05-05:18:19.244 5b28 Table #4: 3 entries OK
-2026/11/05-05:18:19.245 5b28 Archiving C:\Users\Scott\Documents\GitHub\Beta-Arcade\Beta_Arcade\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/11/05-05:18:19.249 5b28 **** Repaired leveldb C:\Users\Scott\Documents\GitHub\Beta-Arcade\Beta_Arcade\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 207 bytes. Some data may have been lost. ****
+2026/11/05-05:18:19.253 5b28 Reusing MANIFEST C:\Users\Scott\Documents\GitHub\Beta-Arcade\Beta_Arcade\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001

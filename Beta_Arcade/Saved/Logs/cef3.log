@@ -1,13 +1,8 @@
-[48560:64504:1105/051818.604:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[48560:23336:1105/051819.000:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[48560:64504:1105/051819.138:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[48560:57068:1105/051822.165:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Scott\Documents\GitHub\Beta-Arcade\Beta_Arcade\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Scott\Documents\GitHub\Beta-Arcade\Beta_Arcade\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[48560:57068:1105/051822.168:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Scott\Documents\GitHub\Beta-Arcade\Beta_Arcade\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Scott\Documents\GitHub\Beta-Arcade\Beta_Arcade\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[48560:57068:1105/051822.169:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Scott\Documents\GitHub\Beta-Arcade\Beta_Arcade\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Scott\Documents\GitHub\Beta-Arcade\Beta_Arcade\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[48560:57068:1105/051822.171:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Scott\Documents\GitHub\Beta-Arcade\Beta_Arcade\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Scott\Documents\GitHub\Beta-Arcade\Beta_Arcade\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[48560:63780:1105/051822.485:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[48560:63780:1105/051822.486:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[47004:23368:1105/051822.768:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-717060B411F8411104CAC8248784DBE3 will be ignored
-[31676:51932:1105/051823.519:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
-[48560:64504:1105/051825.869:ERROR:device_event_log_impl.cc(196)] [05:18:25.863] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[48560:64504:1105/064108.086:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[36164:5304:1110/092141.319:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[36164:35892:1110/092141.342:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[36164:5304:1110/092141.354:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[32428:32612:1110/092143.307:ERROR:backend_impl.cc(989)] Critical error found -8
+[32428:32612:1110/092143.649:WARNING:storage_block-inl.h(138)] Failed data load.
+[28292:29172:1110/092143.664:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-39550FF91DA890B9691FEEE933C51845 will be ignored
+[36164:5304:1110/092146.733:ERROR:device_event_log_impl.cc(196)] [09:21:46.726] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[36164:5304:1110/092149.378:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
