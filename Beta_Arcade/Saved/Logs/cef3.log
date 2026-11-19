@@ -1,8 +1,71 @@
-[36164:5304:1110/092141.319:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[36164:35892:1110/092141.342:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[36164:5304:1110/092141.354:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[32428:32612:1110/092143.307:ERROR:backend_impl.cc(989)] Critical error found -8
-[32428:32612:1110/092143.649:WARNING:storage_block-inl.h(138)] Failed data load.
-[28292:29172:1110/092143.664:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-39550FF91DA890B9691FEEE933C51845 will be ignored
-[36164:5304:1110/092146.733:ERROR:device_event_log_impl.cc(196)] [09:21:46.726] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[36164:5304:1110/092149.378:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[28800:28804:1119/150704.549:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[28800:22688:1119/150704.624:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[28800:28804:1119/150704.633:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[29104:29096:1119/150708.861:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-17ADDC3DF6DF7647F281B7175B03F947 will be ignored
+[29172:27088:1119/150710.026:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[29172:3212:1119/150710.049:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[29172:3212:1119/150710.050:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[29172:3212:1119/150710.051:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[2116:11820:1119/150710.204:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[2116:11820:1119/150710.204:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[2116:11820:1119/150710.205:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[2116:11820:1119/150710.216:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[2116:11820:1119/150710.216:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[2116:11820:1119/150710.216:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[2116:11820:1119/150710.216:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[29172:3212:1119/150710.216:WARNING:stun_port.cc(442)] Port[1631c00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[2116:11820:1119/150710.216:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[2116:11820:1119/150710.216:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[29172:3212:1119/150710.216:WARNING:stun_port.cc(442)] Port[1632c00:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[29172:3212:1119/150710.216:WARNING:stun_port.cc(442)] Port[1633400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[29172:3212:1119/150710.216:WARNING:stun_port.cc(442)] Port[1631c00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[29172:3212:1119/150710.216:WARNING:stun_port.cc(442)] Port[1632c00:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[29172:3212:1119/150710.216:WARNING:stun_port.cc(442)] Port[1633400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[2116:11820:1119/150710.219:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[2116:11820:1119/150710.219:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[2116:11820:1119/150710.219:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[29172:3212:1119/150710.219:WARNING:stun_port.cc(442)] Port[1631c00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[29172:3212:1119/150710.219:WARNING:stun_port.cc(442)] Port[1632c00:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[29172:3212:1119/150710.219:WARNING:stun_port.cc(442)] Port[1633400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[28800:16748:1119/150710.897:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[28800:28804:1119/150711.187:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[28800:28804:1119/150711.187:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[28800:28804:1119/150711.187:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[28800:28804:1119/150711.187:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[28800:16748:1119/150711.195:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[2116:11820:1119/150711.335:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[2116:11820:1119/150711.369:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[1840:15280:1119/150711.428:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[1840:2216:1119/150711.476:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[1840:2216:1119/150711.477:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[1840:2216:1119/150711.477:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[2116:11820:1119/150711.519:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[2116:11820:1119/150711.519:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[2116:11820:1119/150711.519:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[2116:11820:1119/150711.520:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[2116:11820:1119/150711.520:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[2116:11820:1119/150711.520:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[2116:11820:1119/150711.520:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[2116:11820:1119/150711.520:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[2116:11820:1119/150711.520:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[2116:11820:1119/150711.520:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[1840:2216:1119/150711.520:WARNING:stun_port.cc(442)] Port[18ff400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[2116:11820:1119/150711.520:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[2116:11820:1119/150711.520:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[1840:2216:1119/150711.520:WARNING:stun_port.cc(442)] Port[1b4cc00:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[1840:2216:1119/150711.520:WARNING:stun_port.cc(442)] Port[1b4d400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[1840:2216:1119/150711.520:WARNING:stun_port.cc(442)] Port[18ff400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[1840:2216:1119/150711.520:WARNING:stun_port.cc(442)] Port[1b4cc00:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[1840:2216:1119/150711.520:WARNING:stun_port.cc(442)] Port[1b4d400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[1840:2216:1119/150711.520:WARNING:stun_port.cc(442)] Port[18ff400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[1840:2216:1119/150711.520:WARNING:stun_port.cc(442)] Port[1b4cc00:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[1840:2216:1119/150711.520:WARNING:stun_port.cc(442)] Port[1b4d400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[1840:15280:1119/150712.814:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[28800:28804:1119/150713.195:ERROR:device_event_log_impl.cc(196)] [15:07:13.168] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[28800:14408:1119/150713.364:ERROR:sandbox_directory_database.cc(915)] SandboxDirectoryDatabase failed at: Init@storage\browser\file_system\sandbox_directory_database.cc:715 with error: IO error: C:\Users\ethom\Documents\GitHub\Beta-Arcade\Beta_Arcade\Saved\webcache_6613\Default\WebStorage\1\FileSystem\t\Paths/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[28800:14408:1119/150713.364:WARNING:sandbox_directory_database.cc(727)] Corrupted SandboxDirectoryDatabase detected. Attempting to repair.
+[2116:11820:1119/150724.301:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[2116:11820:1119/150737.409:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[28952:11976:1119/150917.726:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[28952:11976:1119/150917.726:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[28800:28804:1119/153947.415:ERROR:device_event_log_impl.cc(196)] [15:39:47.257] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
