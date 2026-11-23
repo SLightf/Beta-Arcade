@@ -1,7 +1,3 @@
-2026/11/15-15:30:49.086 8318 Reusing MANIFEST C:\Users\ewenj\Documents\GitHub\Beta-Arcade\Beta_Arcade\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/11/15-15:30:49.098 8318 Recovering log #7
-2026/11/15-15:30:49.102 8318 Reusing old log C:\Users\ewenj\Documents\GitHub\Beta-Arcade\Beta_Arcade\Saved\webcache_6613\Default\Local Storage\leveldb/000007.log 
-2026/11/15-15:30:49.103 8318 Delete type=0 #3
-2026/11/15-19:20:38.588 8ef0 Level-0 table #10: started
-2026/11/15-19:20:38.593 8ef0 Level-0 table #10: 69508 bytes OK
-2026/11/15-19:20:38.595 8ef0 Delete type=0 #7
+2026/11/23-18:05:58.597 bb0 Reusing MANIFEST C:\Users\ewenj\Documents\GitHub\Beta-Arcade\Beta_Arcade\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/11/23-18:05:58.602 bb0 Recovering log #9
+2026/11/23-18:05:58.606 bb0 Reusing old log C:\Users\ewenj\Documents\GitHub\Beta-Arcade\Beta_Arcade\Saved\webcache_6613\Default\Local Storage\leveldb/000009.log 
